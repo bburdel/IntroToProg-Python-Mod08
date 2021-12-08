@@ -1,0 +1,4 @@
+Test 2, 0.35
+Quantum, 9999.00
+Nuka Cola, 1000.00
+Bobblehead, 15.00
